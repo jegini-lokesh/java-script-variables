@@ -11,10 +11,10 @@
 // alert("value of a is" + a);
 // alert("value of b is" + b);
 // ------------------------------- (--a -->pre decrement)---------------------------
-// var c=10;
-// var d=--c //(c=c-1=9 here operatio will perform firsr now value is c=9 and that value of c is assigned td b c,d are now 9)
-// alert("value of c is" + c);
-// alert("value of d is" + d);
+var c=10;
+var d=--c //(c=c-1=9 here operatio will perform firsr now value is c=9 and that value of c is assigned td b c,d are now 9)
+alert("value of c is" + c);
+alert("value of d is" + d);
 //--------------------------------- (a++ -->post increment)----------------------------
 // var a=10;
 // var b=a++ //(here the value of a is first assign to b now b value is 10, after then the operation perform a=a+1=11 now the value of a is ll)
